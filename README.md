@@ -35,7 +35,7 @@ This file is the source of truth. It captures:
 | **Execution dependencies** | Predecessor relationships between leaves within a path (e.g. TB14.b requires TB14.a to have run first) |
 | **Translations** | Human-readable rendering of each leaf in context of its parameters |
 
-The mind map below represents the Ethereum app modeled in `system.json` — 14 Technical Branches, 112 atomic leaves, 5 Parameter Branches, 4 device contexts, and 4 categories of external integrations.
+The mind map below represents a firmware app modeled in `system.json` — 14 Technical Branches, 112 atomic leaves, 5 Parameter Branches, 4 device contexts, and 4 categories of external integrations.
 
 This is not optional infrastructure. **Without the model, coverage is undefined.** You cannot know what you're missing if you haven't described what exists.
 
