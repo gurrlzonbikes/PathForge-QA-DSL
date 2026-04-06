@@ -1,6 +1,6 @@
 # PathForge — Structured Coverage for AI-Powered QA
 
-*A domain-specific language for modeling, executing, and comparing test coverage through explicit system traversal paths.*
+*A domain-specific language (DSL) for modeling, executing, and comparing test coverage through explicit system traversal paths.*
 
 ---
 
