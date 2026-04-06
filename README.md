@@ -270,4 +270,4 @@ The result is a QA system where coverage is a property of the **model**, not the
 
 ---
 
-*Built with PathForge · Root-to-Canopy Quality Mapping Methodology*
+*Built with PathForge · [Root-to-Canopy Quality Mapping Methodology](https://github.com/gurrlzonbikes/Root-to-Canopy-Quality-Mapping)*
